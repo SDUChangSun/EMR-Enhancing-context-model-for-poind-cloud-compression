@@ -8,7 +8,7 @@ from numpy import mod
 from Preparedata.data import dataPrepare
 from encoderTool import main
 from networkTool import reload,CPrintl,expName,device
-from octAttention import model
+from EMRoctAttention import model
 import glob,datetime,os
 import pt as pointCloud
 import torch
