@@ -5,7 +5,7 @@ python 3.7
 PyTorch 1.9.0+cu102
 file/environment.sh to help you build this environment
 # Train
-python octAttention.py 
+python EMRoctAttention.py 
 # Test
 python test.py 
 # Citation
